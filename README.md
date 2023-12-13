@@ -1,1 +1,2 @@
 # Cybersecurity
+This is basically project of cybersecurity using steganography techniques in which we use images or text files to hide our data inside them using encryption and decryption. Steganography ensures that our data is transferred securely and no one can notice that we are transferring a secret message. To add further security, we are writing out message inside image or file using encryption techniques such as AES or DES/
